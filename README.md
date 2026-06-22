@@ -77,5 +77,3 @@ Overall Activation rate is 57.5%
 Overall Delinquent rate is 6.06%  
 
 
-# 📩 Feedback
-If you have any feedback, please reach out to me at Linkedin: https://www.linkedin.com/in/vineet-patel416/
